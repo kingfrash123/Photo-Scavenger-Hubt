@@ -1,28 +1,16 @@
-# Project 4 - *Photo Scavange*
+# *Photo Scavange*
 
-Submitted by: **King Primo**
+By: **King Primo**
 
-**Photo Scavange** is an app that Uses apple's image meta data and map api to create an image scavanger hunt task manager
+**Photo Scavange** is an app that Uses apple's image meta data and apple map api to create an image scavanger hunt task manager
 
-Time spent: **2** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
+## The following functionality is implemented:
 
 - [x] App displays list of hard-coded tasks
 - [x] When a task is tapped it navigates the user to a task detail view
 - [x] When user adds photo to complete the tasks, it marks the task as complete
 - [x] When adding photo of task, the location is added
 - [x] User returns to home page (list of tasks) and the status of your task is updated to complete
- 
-The following **optional** features are implemented:
-
-- [ ] User can launch camera to snap a picture	
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -33,10 +21,6 @@ The following **additional** features are implemented:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/205cae128fdc494d8f4de798e6cf4fd7-with-play.gif">
     </a>
   </div>
-
-## Notes
-
-This one was fairly simple.
 
 ## License
 
